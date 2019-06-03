@@ -1,0 +1,21 @@
+{
+  "name": "cli-demo",
+  "version": "1.0.0",
+  "description": "cli-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cli-demo": "bin/cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "gulp": "^4.0.2",
+    "gulp-amd-wrap": "^1.0.2",
+    "gulp-cli": "^2.2.0",
+    "vue-cli": "^2.9.6"
+  }
+}

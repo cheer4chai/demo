@@ -1,0 +1,15 @@
+{
+  "name": "inquirer-demo",
+  "version": "1.0.0",
+  "description": "inquirer demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^6.0.2",
+    "inquirer": "^6.3.1"
+  }
+}
